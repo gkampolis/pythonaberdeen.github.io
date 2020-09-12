@@ -21,7 +21,7 @@ Register to attend [the October meeting ](https://ti.to/code-the-city/aberdeen-p
 Tickets are free (just change the suggested donation to £0.00), but you can make a donation to [Code the City](https://codethecity.org) if you wish. 
 
 ### Monthly challenges
-The project challenges will be annopunced on [Github](https://github.com/PythonAberdeen/user_group/tree/master/)
+The project challenges will be announced on [Github](https://github.com/PythonAberdeen/user_group/tree/master/)
 
 ### Keep in touch
 We recommend joining our [Slack channel](https://join.slack.com/t/python-aberdeen/shared_invite/zt-fe4vr06d-TavzVV4ZusCxYLEdCqxsyQ). 
